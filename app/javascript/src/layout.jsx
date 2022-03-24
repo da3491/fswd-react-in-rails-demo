@@ -5,7 +5,7 @@ const Layout = (props) => {
     <React.Fragment>
       <nav className="navbar navbar-expand navbar-light bg-light">
         <div className="container">
-          <a href="/"><span className="navbar-brand mb-0 h1">React in Rails Demo</span></a>
+          <a class="navbar-brand" href="#">React in Rails Demo</a>
           <div className="collapse navbar-collapse">
             <ul className="navbar-nav">
               <li className="nav-item">
